@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Senad Zenkovic
-### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer!
+### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with likeminded developers!
 
 ![I am GitHub Readme Generator's creator](https://www.nizek.com/wp-content/uploads/2018/10/Frontend-Development-.svg)
 
