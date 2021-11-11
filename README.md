@@ -12,7 +12,7 @@
 ### Languages and Tools:
 
 #### Front-End:
-!(https://img.shields.io/badge/JS-JavaScript-gold)
+![JavaScript](https://img.shields.io/badge/JS-JavaScript-gold)
 
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
 #### Back-End:
