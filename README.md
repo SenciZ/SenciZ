@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋, my name is Senad Zenkovic
+### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer
 
 <!--
 **SenciZ/SenciZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
