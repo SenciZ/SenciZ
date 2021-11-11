@@ -12,13 +12,7 @@
 
 #### Front-End:
 
-![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
-![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
-![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
-![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
+![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
 
 #### Back-End:
 
