@@ -1108,13 +1108,13 @@
   <text
      xml:space="preserve"
      id="text2921"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';white-space:pre;shape-inside:url(#rect2923);fill:#514e64;fill-opacity:1;stroke:none"
-     transform="translate(-9.952914,24.637738)"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.6667px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Bold';white-space:pre;shape-inside:url(#rect2923);fill:#e44d26;fill-opacity:1;stroke:none"
+     transform="translate(2.047086,32.637738)"><tspan
        x="29.330078"
-       y="94.872829"
-       id="tspan36937">Hello, my name is
+       y="88.586535"
+       id="tspan45028">Hello, my name is
 </tspan><tspan
        x="29.330078"
-       y="161.53945"
-       id="tspan36939">Senad Zenkovic!</tspan></text>
+       y="146.91991"
+       id="tspan45030">Senad Zenkovic!</tspan></text>
 </svg>
