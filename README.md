@@ -1,5 +1,3 @@
-
-adf
 <h1 align="center">Hi there, my name is <strong>Senad Zenkovic</strong></h1>
 
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
@@ -19,7 +17,6 @@ Current DevMountain Student foucused on the Full Stack Web Development. I’m cu
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 ![SQL](https://img.shields.io/badge/SQL-2E3440?style=for-the-badge&logo=sql)
-![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=git)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![Firebase](https://img.shields.io/badge/Firebase-2E3440?style=for-the-badge&logo=firebase)
@@ -32,3 +29,8 @@ Current DevMountain Student foucused on the Full Stack Web Development. I’m cu
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-2E3440?style=for-the-badge&logo=adobe%20xd)
 ![Figma](https://img.shields.io/badge/Figma-2E3440?style=for-the-badge&logo=figma)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-2E3440?style=for-the-badge&logo=adobeillustrator)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2E3440?style=for-the-badge&logo=adobephotoshop)
+![Indesign](https://img.shields.io/badge/Adobe%20Indesign-2E3440?style=for-the-badge&logo=adobeindesign)
+![Wordpress](https://img.shields.io/badge/WordPress-2E3440?style=for-the-badge&logo=wordpress)
+![Jest](https://img.shields.io/badge/Jest-2E3440?style=for-the-badge&logo=jest)
