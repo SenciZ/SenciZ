@@ -1,6 +1,6 @@
-<h1 align="center"># Hi there 👋, my name is **Senad Zenkovic**</h1>
+<h1 align="center" style="color:midnightblue;">##Hi there, my name is <strong>Senad Zenkovic</strong></h1>
 
-![I am GitHub Readme Generator's creator](senadzenkovicdeveloper.svg)
+![Senad sitting at workstation](senadzenkovicdeveloper.svg)
 ### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with likeminded developers!
 
 
