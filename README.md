@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, my name is <strong>Senad Zenkovic</strong></h1>
 
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
 ### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with likeminded developers!
@@ -33,3 +32,7 @@ Current DevMountain Student focused on the Full Stack Web Development. I’m cur
 ![Indesign](https://img.shields.io/badge/Adobe%20Indesign-2E3440?style=for-the-badge&logo=adobeindesign)
 ![Wordpress](https://img.shields.io/badge/WordPress-2E3440?style=for-the-badge&logo=wordpress)
 ![Jest](https://img.shields.io/badge/Jest-2E3440?style=for-the-badge&logo=jest)
+
+
+
+<h1 align="center">Hi there, my name is <strong>Senad Zenkovic</strong></h1>
