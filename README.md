@@ -1,6 +1,7 @@
 
 adf
 <h1 align="center">Hi there, my name is <strong>Senad Zenkovic</strong></h1>
+
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
 ### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with likeminded developers!
 
