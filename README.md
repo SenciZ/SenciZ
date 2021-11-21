@@ -2,7 +2,7 @@
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
 ### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with likeminded developers!
 
-Current DevMountain Student focused on the Full Stack Web Development. I’m currently focusing on Algorithms, Building web applications, TypeScript, Next.js. I’m looking to collaborate with other passionate developers. My 2022 Goals are: Contribute to Open Source projects. Learn More About - TypeScript, Next.js
+Current DevMountain Student focused on the Full Stack Web Development. I’m currently focusing on JavaScript, React.js and Backend technologies. Whithin the next 4 months I hope to create several applications to showcase on my portfolio in order to show potential employeers my current skills. In the next year I aim to be employeed within the field working alongside senior developers to learn from them while also utilizing my unique skills and background to help them innovate and produce better product for their clients. My 5 year goal involves me becoming extremely versed in my current stack while also learning other tech such as C# and iOS. While on my way to my 5 year goal I intend to mentor incoming devs to help them along in their path just as others might have done for me.
 
 ## Languages and Tools that I use:
 
@@ -32,7 +32,3 @@ Current DevMountain Student focused on the Full Stack Web Development. I’m cur
 ![Indesign](https://img.shields.io/badge/Adobe%20Indesign-2E3440?style=for-the-badge&logo=adobeindesign)
 ![Wordpress](https://img.shields.io/badge/WordPress-2E3440?style=for-the-badge&logo=wordpress)
 ![Jest](https://img.shields.io/badge/Jest-2E3440?style=for-the-badge&logo=jest)
-
-
-
-<h1 align="center">Hi there, my name is <strong>Senad Zenkovic</strong></h1>
