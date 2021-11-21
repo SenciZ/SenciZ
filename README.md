@@ -1,6 +1,6 @@
 
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
-### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with likeminded developers!
+### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with like-minded developers!
 
 Current DevMountain Student focused on the Full Stack Web Development. I’m currently focusing on JavaScript, React.js and Backend technologies. Whithin the next 4 months I hope to create several applications to showcase on my portfolio in order to show potential employeers my current skills. In the next year I aim to be employeed within the field working alongside senior developers to learn from them while also utilizing my unique skills and background to help them innovate and produce better product for their clients. My 5 year goal involves me becoming extremely versed in my current stack while also learning other tech such as C# and iOS. While on my way to my 5 year goal I intend to mentor incoming devs to help them along in their path just as others might have done for me.
 
