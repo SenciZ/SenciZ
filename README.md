@@ -2,8 +2,6 @@
 
 ### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with like-minded developers!
 
-I’m currently focusing on expanding my JavaScript, React.js, and Node skills while also learning C# and ASP.NET Framework. In the next year, I aim to be employed within the field working alongside senior developers to learn from them while also utilizing my unique skills and background to help them innovate and produce a better product for their clients. My 5-year goal involves me becoming extremely versed in my current stack of PostgreSQL, Express, React.js, and Node.js while also learning other tech such as Vue.js, Angular, MongoDB, C# with .NET and iOS to name a few. While on my way to my 5-year goal I intend to mentor incoming devs to help them along in their path just as others might have done for me.
-
 ## Languages and Tools that I use:
 
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
