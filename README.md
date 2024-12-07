@@ -1,6 +1,6 @@
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
 
-### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with like-minded developers!
+### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with like-minded developers! When I am not coding or learning new technologies I enjoy anything outdoors. When near water I enjoy racing sailboats or just sailing with friends for fun otherwise I am rock climbing and hiking or cycling.
 
 ## Languages and Tools that I use:
 
