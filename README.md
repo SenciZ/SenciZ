@@ -1,6 +1,16 @@
 ![Senad sitting at workstation](senadzenkovicdeveloper.svg)
 
-### I'm a Full Stack Developer, who loves learning the endless technologies that Tech has to offer and collaborating with like-minded developers! When I am not coding or learning new technologies I enjoy anything outdoors. When near water I enjoy racing sailboats or just sailing with friends for fun otherwise I am rock climbing and hiking or cycling.
+I'm a dedicated Software Engineer with a strong foundation in JavaScript, React, and Node.js, and I'm passionate about building scalable, user-friendly web applications. With experience in both front-end and back-end development, I thrive on delivering high-quality code that drives business impact.
+
+I approach each project with an owner's mentality, prioritizing the success of the company and the end user. My commitment to learning and growth has led me to explore new technologies,and I'm always excited about tackling new challenges. Whether it's working with JavaScript, Python, Ruby, Go, Java, or C#, I'm eager to dive into any technology that will help achieve the team's objectives.
+
+In my current role at Karma Wallet, I've had the opportunity to lead key initiatives, from optimizing platform performance to enhancing the user experience. I take pride in collaborating with cross-functional teams, ensuring that we consistently deliver impactful, innovative solutions.
+
+If you're looking for someone who is hardworking, adaptable, and ready to contribute to your team's success, let's connect! I'm always open to discussing new opportunities or sharing insights on the latest trends in tech.
+
+#
+When I am not coding or learning new technologies I enjoy anything outdoors. When near water I enjoy racing sailboats or just sailing with friends for fun otherwise I am rock climbing and hiking, canoeing and camping, or cycling.
+#
 
 ## Languages and Tools that I use:
 
